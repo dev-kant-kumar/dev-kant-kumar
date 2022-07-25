@@ -27,10 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dev-kant-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev-kant-kumar" height="30" width="40" /></a>
-<a href="https://dev.to/devkantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devkantkumar" height="30" width="40" /></a>
+
 <a href="https://twitter.com/dev_kant_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_kant_kumar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dev-kant-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dev-kant-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_kant_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_kant_kumar" height="30" width="40" /></a>
 </p>
 
