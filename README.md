@@ -47,7 +47,7 @@
 <div align="center">
   <h3>📫 Get in Touch</h3>
   <p>If you have any questions, project ideas, or just want to connect, feel free to reach out to me!</p>
-  <p>Email: devkantkumar@yandex.com</p>
+  <p>Email: devkantkumar@proton.me</p>
 </div>
 
 <div align="center">
