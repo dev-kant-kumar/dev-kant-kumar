@@ -8,9 +8,16 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm Dev Kant Kumar, currently in my first semester of BCA at Vinoba Bhave University, Hazaribagh. My long-term goal is to become an AI and ML engineer, but I understand it's a journey that takes time. In the meantime, I am passionate about learning web development and app development. Currently focusing on frontend development, I also have a good knowledge of the C language. I enjoy programming and am working on various projects, with a current focus on building a voting system in C. 
+Hey there! 👋 I'm **Dev Kant Kumar**, currently embarking on my first semester of BCA at Vinoba Bhave University, Hazaribagh.
+
+🌟 My long-term goal? To become an **AI and ML engineer**. It's an exciting journey that I'm diving into headfirst. Meanwhile, I'm fueled by a passion for **web development and app development**. I'm currently honing my skills in **frontend development**, and I've got a solid foundation in **C programming**.
+
+💻 I find joy in programming and am currently immersed in diverse projects. Right now, my focus is on crafting a **voting system in C**.
+
+Let's connect, collaborate, and make the tech world a little more amazing together! 🌈✨
+
 
 ---
 
