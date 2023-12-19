@@ -66,10 +66,7 @@ I'm currently in my first semester of BCA and am learning the following:
 
 Feel free to reach out to me for collaborations or inquiries:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kant_kumar?logo=twitter&style=for-the-badge)](https://twitter.com/dev_kant_kumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devkantkumar/)
-[![Instagram](https://img.shields.io/badge/Instagram-dev_kant_kumar-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/devkantkumar.in/)
-[![Facebook](https://img.shields.io/badge/Facebook-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/devkantkumar.in)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kant_kumar?logo=twitter&style=for-the-badge)](https://twitter.com/dev_kant_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devkantkumar/) [![Instagram](https://img.shields.io/badge/Instagram-dev_kant_kumar-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/devkantkumar.in/) [![Facebook](https://img.shields.io/badge/Facebook-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/devkantkumar.in)
 
 ---
 
