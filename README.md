@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Image](https://github.com/dev-kant-kumar/dev-kant-kumar/assets/101362859/38b99a96-46bb-4551-a048-983c61fb53cf)
+![LinkedIN banner](https://github.com/dev-kant-kumar/dev-kant-kumar/assets/101362859/e6958147-2e72-4207-ab46-66de7d6c74b2)
 
 ## Hi there! I'm Dev Kant Kumar
 
