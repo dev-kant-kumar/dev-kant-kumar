@@ -51,17 +51,21 @@ My ultimate goal is to contribute to the tech industry by developing scalable ap
 
 ## 🌟 Projects
 
-### Portfolio Website
-- Built using HTML, CSS, and Bootstrap to showcase my skills and projects.
-- [View Project](#) <!-- Replace with your GitHub Pages link -->
+### Calculator
+- Implemented using HTML, CSS, and JavaScript for basic arithmetic operations.
+- [View Project](https://dev-kant-kumar.github.io/Calculator/)
+
+### Sketch Artist Portfolio Website
+- Created a portfolio website using HTML, CSS, and JavaScript to showcase artworks and sketches.
+- [View Project](https://dev-kant-kumar.github.io/TGXSW-WebProject/)
 
 ### Typing Speed Test
-- Implemented using HTML, CSS, and JavaScript to improve typing skills.
-- [View Project](#) <!-- Replace with your GitHub Pages link -->
+- Implemented using HTML, CSS, and JavaScript to enhance typing skills and accuracy.
+- [View Project](https://dev-kant-kumar.github.io/Swift-Type/)
 
 ### To-Do Web App (MERN Stack)
-- Robust task management application with CRUD operations and filtering options.
-- [View Project](#) <!-- Replace with your GitHub Pages link -->
+- Currently developing a robust task management application with CRUD operations and filtering options.
+- [View Project - Coming Soon](#)
 
 ---
 
