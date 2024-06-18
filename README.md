@@ -8,7 +8,7 @@
 <div align="center">
 
 # Dev Kant Kumar
-### AI & ML Enthusiast | Self-Taught Programmer | Aspiring MERN Stack Developer | Passionate Problem Solver
+### Aspiring MERN Stack Developer | Passionate Problem Solver | AI & ML Enthusiast 
 
 </div>
 
