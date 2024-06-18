@@ -1,90 +1,95 @@
+<div align="center">
+  
 # Welcome to My GitHub Profile! 👋
+  
+</div>
 
 ![LinkedIN banner](https://github.com/dev-kant-kumar/dev-kant-kumar/assets/101362859/e6958147-2e72-4207-ab46-66de7d6c74b2)
+<div align="center">
 
-## Hi there! I'm Dev Kant Kumar
+# Dev Kant Kumar
+### AI & ML Enthusiast | Self-Taught Programmer | Aspiring MERN Stack Developer | Passionate Problem Solver
 
-🚀 Aspiring AI & ML Engineer | BCA First Semester at Vinoba Bhave University, Hazaribagh
-
----
-
-## 🚀 About Me
-
-Hey there! 👋 I'm **Dev Kant Kumar**, currently embarking on my first semester of BCA at Vinoba Bhave University, Hazaribagh.
-
-🌟 My long-term goal? To become an **AI and ML engineer**. It's an exciting journey that I'm diving into headfirst. Meanwhile, I'm fueled by a passion for **web development and app development**. I'm currently honing my skills in **frontend development**, and I've got a solid foundation in **C programming**.
-
-💻 I find joy in programming and am currently immersed in diverse projects. Right now, my focus is on crafting a **voting system in C**.
-
-Let's connect, collaborate, and make the tech world a little more amazing together! 🌈✨
-
+</div>
 
 ---
 
-  ## 🔧 Skills
+## 🚀 Brief About Me
 
-  - 💻 C Programming
-  - 🌐 Frontend Development (Currently Learning)
-  - 🚀 Web Development
-  - 📱 App Development (Future Goal)
-
-
-
-## GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=dev-kant-kumar&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/dev-kant-kumar?style=social)
-
-
-
-
-
-
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-kant-kumar&show_icons=true&count_private=true&hide=issues&hide_title=true)
+Hey there! 👋 I'm **Dev Kant Kumar**, a dedicated Full Stack Developer with a passion for leveraging technology to solve real-world problems. Currently pursuing my BCA degree with a focus on mastering the MERN stack and enhancing my skills in web development.
 
 ---
 
-## Projects
+## 💡 What Drives Me
 
-### Voting System in C
-- A project focused on building a voting system using C.
-- Comming soon 
+I am driven by a relentless curiosity and a deep-seated passion for technology. I thrive on challenging myself with new projects and learning experiences, constantly pushing boundaries to innovate and create impactful solutions.
 
+---
+
+## 🎯 My Goal
+
+My ultimate goal is to contribute to the tech industry by developing scalable applications that make a difference. I aspire to collaborate with like-minded individuals to build innovative solutions that address global challenges.
+
+---
+
+## 🔧 Skills
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+### Portfolio Website
+- Built using HTML, CSS, and Bootstrap to showcase my skills and projects.
+- [View Project](#) <!-- Replace with your GitHub Pages link -->
+
+### Typing Speed Test
+- Implemented using HTML, CSS, and JavaScript to improve typing skills.
+- [View Project](#) <!-- Replace with your GitHub Pages link -->
+
+### To-Do Web App (MERN Stack)
+- Robust task management application with CRUD operations and filtering options.
+- [View Project](#) <!-- Replace with your GitHub Pages link -->
 
 ---
 
 ## 📚 Education
 
-- BCA, Vinoba Bhave University, Hazaribagh
+- **Bachelor of Computer Applications (BCA)**
+  - Vinoba Bhave University, Hazaribagh
+  - Duration: 2023-2026
 
 ---
 
 ## 🛠️ Learning Journey
 
-I'm currently in my first semester of BCA and am learning the following:
-
-- Frontend Development
-- Building small projects in C
+Currently focusing on mastering the MERN stack to develop scalable applications. I believe in continuous learning and applying new technologies to create innovative solutions.
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out to me for collaborations or inquiries:
+Let's connect for collaborations or inquiries: <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kant_kumar?logo=twitter&style=for-the-badge)](https://twitter.com/dev_kant_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devkantkumar/) [![Instagram](https://img.shields.io/badge/Instagram-dev_kant_kumar-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/devkantkumar.in/) [![Facebook](https://img.shields.io/badge/Facebook-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/devkantkumar.in)
-
----
-
-## 💡 Interests
-
-I enjoy programming and love learning about anything related to computers. My current focus is on honing my skills in frontend development and C programming.
+[![Twitter](https://img.shields.io/badge/Twitter-dev_kant_kumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_kant_kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Kant%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devkantkumar/)
 
 ---
 
-## 🌟 Let's Connect and Collaborate!
+## 🌍 Let's Innovate Together
 
-If you share a passion for AI, ML, and technology, let's connect, learn, and create amazing things together!
+If you're passionate about technology and eager to make a positive impact, let's collaborate and create innovative solutions together!
 
 ---
